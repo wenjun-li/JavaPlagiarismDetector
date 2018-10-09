@@ -1,0 +1,130 @@
+
+.btnCheck1{
+    -fx-background-color: #6bc7a2;
+}
+
+.lblAlert1
+{
+	-fx-font-size: 30px;
+	-fx-font-weight: bolder;
+    -fx-font-family: sans-serif;
+}
+
+.btnConfirm1
+{
+    -fx-background-color: cornflowerblue;
+}
+
+.btnFile2
+{
+    -fx-background-color: cornflowerblue;
+}
+
+.btnFile1
+{
+    -fx-background-color: cornflowerblue;
+}
+
+.lblTitle1
+{
+    -fx-font-size: 20px;
+    -fx-font-weight: 800;
+    -fx-font-family: sans-serif;
+}
+
+
+.lblFile11
+{
+    -fx-fill: silver;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
+
+.lblAlert1
+{
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
+.lblFile12
+{
+	-fx-fill: silver;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
+
+.btnYes1
+{
+    -fx-background-color: red;
+}
+
+.btnNo1
+{
+    -fx-background-color: mediumseagreen;
+}
+
+.progressBar1
+{
+    -fx-progress-color: darkblue;
+}
+
+.btnHelp1
+{
+    -fx-background-color: #6bc7a2;
+}
+
+.button
+{
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+.btnReturn1
+{
+	-fx-font-size: 12px;
+    -fx-background-color:#6bc7a2;
+}
+
+.lblIntro1
+{
+	-fx-font-size: 12px;
+	-fx-font-weight: 700;
+}
+
+.lblScore1
+{
+	-fx-font-size: 20px;
+	-fx-font-weight: bolder;
+}
+
+.lblMessage1
+{
+	-fx-font-size: 20px;
+	-fx-font-weight: bolder;
+}
+
+.lblIntroduction1
+{
+	-fx-font-size: 20px;
+	-fx-font-weight: bolder;
+}
+
+.text-area1 *.text
+{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.text-area-score .content
+{
+	-fx-background-color: lightgrey;
+}
+
+.text-area-message .content
+{
+	-fx-background-color: lightgrey;
+}
+
+.text-area-intro .content
+{
+	-fx-background-color: lightgrey;
+}
